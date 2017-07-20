@@ -6,8 +6,8 @@ header .panel-heading{
     margin-bottom: 25px;
 }
 
-.panel-body{
-
+body{
+    background-image: url("rice-paper-texture.jpg");
 }
 
 .entrybox{
@@ -20,8 +20,14 @@ label{
 }
 
 #footer{
-    width: 100%;
-    background-color: rgba(50, 93, 136, 0.8);
+    font-size: 2px;
+    color: cornsilk;
+    background-color: #325D88;
     position: relative;
     bottom: 0;
+
+}
+
+#footer h6{
+    opacity: 0.7;
 }
