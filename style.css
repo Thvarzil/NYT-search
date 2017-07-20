@@ -1,0 +1,27 @@
+header .panel-heading{
+    border-radius: 7px;
+    color: cornsilk;
+    background-color: #325D88;
+
+    margin-bottom: 25px;
+}
+
+.panel-body{
+
+}
+
+.entrybox{
+    padding: 0;
+    background-color: cornsilk;
+}
+
+label{
+    font-size: 13pt;
+}
+
+#footer{
+    width: 100%;
+    background-color: rgba(50, 93, 136, 0.8);
+    position: relative;
+    bottom: 0;
+}
